@@ -12,6 +12,15 @@
 ## 🌐 Live Demo
 🔗 [Click here to try PulseIQ](https://pulseiq-heart-disease-ai.streamlit.app)
 
+---
+
+## 🔗 Project Links
+
+- Live Demo: https://pulseiq-heart-disease-ai.streamlit.app
+- GitHub Repository: https://github.com/niranjanadevi1511/PulseIQ-Heart-Disease-AI
+
+---
+
 ## 📸 Application Preview
 
 ![PulseIQ Screenshot](Screenshot.png)
@@ -25,6 +34,18 @@ from clinical parameters. It uses a trained **Random Forest classifier** on the
 risk percentage using `predict_proba()` — giving more actionable insight than a simple yes/no result.
 
 Built as a final-year Computer Science project to demonstrate real-world ML deployment.
+
+---
+
+## 🎯 Key Highlights
+
+- End-to-end Machine Learning deployment project
+- Publicly deployed on Streamlit Cloud
+- User authentication and role-based access
+- SQLite database integration
+- Interactive analytics dashboard
+- PDF report generation
+- Mobile and desktop responsive interface
 
 ---
 
@@ -79,12 +100,22 @@ Built as a final-year Computer Science project to demonstrate real-world ML depl
 
 ---
 
+## 👩‍💻 Author
+
+Niranjana Devi
+
+Final Year B.E. Computer Science Engineering
+
+GitHub: [niranjanadevi1511](https://github.com/niranjanadevi1511)
+
+---
+
 ## 🚀 Run Locally
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/PulseIQ.git
-cd PulseIQ
+git clone https://github.com/niranjanadevi1511/PulseIQ-Heart-Disease-AI.git
+cd PulseIQ-Heart-Disease-AI
 
 # 2. Install dependencies
 pip install -r requirements.txt
