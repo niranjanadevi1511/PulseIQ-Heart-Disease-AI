@@ -129,3 +129,17 @@ streamlit run app.py
 ---
 
 ## 📁 Project Structure
+
+```text
+PulseIQ-Heart-Disease-AI/
+│
+├── app.py                  # Main Streamlit application
+├── Main.py                 # Additional application module
+├── Save_model.py           # Model saving script
+├── heart_model.pkl         # Trained Random Forest model
+├── heart_disease_uci.csv   # Dataset
+├── model_training.ipynb    # Model training notebook
+├── Screenshot.png          # Application screenshot
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
+```
