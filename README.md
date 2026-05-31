@@ -10,7 +10,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 [Click here to try PulseIQ](YOUR_STREAMLIT_CLOUD_LINK_HERE)
+🔗 [Click here to try PulseIQ](https://pulseiq-heart-disease-ai.streamlit.app)
 
 ## 📸 Application Preview
 
