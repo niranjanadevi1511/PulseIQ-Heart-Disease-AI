@@ -1,5 +1,5 @@
-streamlit==1.45.1
-pandas==2.2.3
-scikit-learn==1.6.1
-plotly==6.0.1
-fpdf2==2.8.3
+streamlit
+pandas
+scikit-learn
+plotly
+fpdf2
