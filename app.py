@@ -227,7 +227,7 @@ html, body, .stApp {
     background: radial-gradient(circle, rgba(59,130,246,0.04) 0%, transparent 65%);
 }
 
-#MainMenu, footer, header { visibility: hidden; }
+#MainMenu, footer, { visibility: hidden; }
 .block-container { padding: 2rem 2.5rem 4rem; max-width: 1280px; }
 
 h1,h2,h3,h4,h5,h6 { font-family:'Outfit',sans-serif !important; color:#f1f5f9 !important; font-weight:700; }
