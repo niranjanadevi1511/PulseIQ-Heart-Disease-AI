@@ -12,6 +12,10 @@
 ## 🌐 Live Demo
 🔗 [Click here to try PulseIQ](YOUR_STREAMLIT_CLOUD_LINK_HERE)
 
+## 📸 Application Preview
+
+![PulseIQ Screenshot](Screenshot.png)
+
 ---
 
 ## 📌 About
