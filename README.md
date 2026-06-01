@@ -101,7 +101,7 @@ Built as a final-year Computer Science project to demonstrate real-world machine
 
 Niranjana Devi
 
-Final Year B.E. Computer Science Engineering
+Final Year B.E. Computer Science and Engineering
 
 GitHub: [niranjanadevi1511](https://github.com/niranjanadevi1511)
 
