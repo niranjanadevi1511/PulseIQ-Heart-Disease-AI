@@ -28,12 +28,9 @@
 ---
 
 ## 📌 About
-PulseIQ is a full-stack AI-powered web application that predicts the risk of heart disease
-from clinical parameters. It uses a trained **Random Forest classifier** on the
-**UCI Heart Disease dataset** (303 samples, 14 features) and returns a continuous
-risk percentage using `predict_proba()` — giving more actionable insight than a simple yes/no result.
+PulseIQ is a full-stack AI-powered web application that predicts the risk of heart disease from clinical parameters. It uses a trained Random Forest classifier on the UCI Heart Disease dataset (920 samples, 239 after preprocessing, 10 selected features) and returns a continuous risk percentage using predict_proba() — providing more actionable insights than a simple binary prediction.
 
-Built as a final-year Computer Science project to demonstrate real-world ML deployment.
+Built as a final-year Computer Science project to demonstrate real-world machine learning deployment and healthcare risk assessment.
 
 ---
 
